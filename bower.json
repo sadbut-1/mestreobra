@@ -1,0 +1,21 @@
+{
+  "name": "mestreobra",
+  "description": "",
+  "main": "",
+  "authors": [
+    "sadbut-1 <eduardommoya@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets/css/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lightgallery": "^1.3.9"
+  }
+}
